@@ -12,7 +12,7 @@ O **EC2** é a base da infraestrutura em nuvem da AWS. Ele permite criar servido
 
 📌 Arquitetura de exemplo:  
 
-![EC2 + EBS + RDS](./images/Desafio-Page-2.drawio.png)  
+![EC2 + EBS + RDS](./images/EC2-EBS-RDS.png)  
 
 ### 🔑 Destaques  
 - **EC2**: Criação, configuração e encerramento de instâncias.  
@@ -31,7 +31,7 @@ Outra arquitetura bastante usada na AWS envolve **serviços serverless** e armaz
 
 📌 Arquitetura de exemplo:  
 
-![S3 + Lambda + DynamoDB](./images/Desafio.drawio.png)  
+![S3 + Lambda + DynamoDB](./images/S3-Lambda-DynamoDB.png)  
 
 ---
 
@@ -75,9 +75,9 @@ Dominar esses conceitos é essencial para qualquer profissional que deseja atuar
 
 ### 📌 Estrutura do Repositório  
 ```
-📂 dio-desafio-aws-ec2-final
+📂 dio-desafio-aws-ec2
  ┣ 📂 images
- ┃ ┣ Desafio.drawio.png
- ┃ ┗ Desafio-Page-2.drawio.png
+ ┃ ┣ EC2-EBS-RDS.png
+ ┃ ┗ S3-Lambda-DynamoDB.png
  ┣ 📜 README.md
 ```
