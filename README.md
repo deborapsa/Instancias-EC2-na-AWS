@@ -75,9 +75,8 @@ Dominar esses conceitos é essencial para qualquer profissional que deseja atuar
 
 ### 📌 Estrutura do Repositório  
 ```
-📂 dio-desafio-aws-ec2
- ┣ 📂 images
+ 📂 images
  ┃ ┣ EC2-EBS-RDS.png
  ┃ ┗ S3-Lambda-DynamoDB.png
- ┣ 📜 README.md
+ 📜 README.md
 ```
